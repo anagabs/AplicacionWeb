@@ -58,6 +58,9 @@ switch($edad)
 
         break; 
 
+    default:
+        echo "es un valor";
+
 } 
 
 ?> 
